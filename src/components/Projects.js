@@ -1,6 +1,4 @@
 import React from 'react'
-import {NavLink} from 'react-router-dom'
-import { ExternalLink } from 'react-external-link';
 import Project1 from "../images/project1.jpg"
 import Project2 from "../images/project2.jpg"
 import Project3 from "../images/project3.jpg"
