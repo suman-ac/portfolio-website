@@ -27,11 +27,7 @@ const Navbar = () => {
                     <li className="nav-item">
                       <NavLink className="nav-link" to="/contact">Contact</NavLink>
                     </li>
-
-
-
                   </ul>
-
                 </div>
               </div>
             </nav>
@@ -39,6 +35,7 @@ const Navbar = () => {
           </div>
         </div>
       </div>
+      
 
     </>
   )
